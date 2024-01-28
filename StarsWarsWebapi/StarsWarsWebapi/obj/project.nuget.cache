@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "sqt47583oRADra4GMEdx21L6FdWVcxAWDXogzWoYr55d0Qt3Y5Rr4jac3JUeeDTY9Vp+dpwO+hSbZhM1RHZoFQ==",
+  "success": true,
+  "projectFilePath": "/Users/uttamkumar/Projects/CFS_Assessment/cfs-assessment/cfs-assessment/StarsWarsWebapi/StarsWarsWebapi/StarsWarsWebapi.csproj",
+  "expectedPackageFiles": [
+    "/Users/uttamkumar/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "/Users/uttamkumar/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "/Users/uttamkumar/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.32/microsoft.netcore.app.host.osx-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}

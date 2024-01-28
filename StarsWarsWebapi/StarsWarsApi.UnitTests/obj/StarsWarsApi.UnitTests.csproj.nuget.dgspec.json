@@ -1,0 +1,308 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/uttamkumar/Projects/CFS_Assessment/cfs-assessment/cfs-assessment/StarsWarsWebapi/StarsWarsApi.UnitTests/StarsWarsApi.UnitTests.csproj": {}
+  },
+  "projects": {
+    "/Users/uttamkumar/Projects/CFS_Assessment/cfs-assessment/cfs-assessment/StarsWarsWebapi/Application/Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/uttamkumar/Projects/CFS_Assessment/cfs-assessment/cfs-assessment/StarsWarsWebapi/Application/Application.csproj",
+        "projectName": "Application",
+        "projectPath": "/Users/uttamkumar/Projects/CFS_Assessment/cfs-assessment/cfs-assessment/StarsWarsWebapi/Application/Application.csproj",
+        "packagesPath": "/Users/uttamkumar/.nuget/packages/",
+        "outputPath": "/Users/uttamkumar/Projects/CFS_Assessment/cfs-assessment/cfs-assessment/StarsWarsWebapi/Application/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/uttamkumar/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.1.10, 3.1.10]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[3.1.0, 3.1.0]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.312/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/uttamkumar/Projects/CFS_Assessment/cfs-assessment/cfs-assessment/StarsWarsWebapi/InfraStructure/InfraStructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/uttamkumar/Projects/CFS_Assessment/cfs-assessment/cfs-assessment/StarsWarsWebapi/InfraStructure/InfraStructure.csproj",
+        "projectName": "InfraStructure",
+        "projectPath": "/Users/uttamkumar/Projects/CFS_Assessment/cfs-assessment/cfs-assessment/StarsWarsWebapi/InfraStructure/InfraStructure.csproj",
+        "packagesPath": "/Users/uttamkumar/.nuget/packages/",
+        "outputPath": "/Users/uttamkumar/Projects/CFS_Assessment/cfs-assessment/cfs-assessment/StarsWarsWebapi/InfraStructure/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/uttamkumar/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.1.10, 3.1.10]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[3.1.0, 3.1.0]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.312/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/uttamkumar/Projects/CFS_Assessment/cfs-assessment/cfs-assessment/StarsWarsWebapi/StarsWarsApi.UnitTests/StarsWarsApi.UnitTests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/uttamkumar/Projects/CFS_Assessment/cfs-assessment/cfs-assessment/StarsWarsWebapi/StarsWarsApi.UnitTests/StarsWarsApi.UnitTests.csproj",
+        "projectName": "StarsWarsApi.UnitTests",
+        "projectPath": "/Users/uttamkumar/Projects/CFS_Assessment/cfs-assessment/cfs-assessment/StarsWarsWebapi/StarsWarsApi.UnitTests/StarsWarsApi.UnitTests.csproj",
+        "packagesPath": "/Users/uttamkumar/.nuget/packages/",
+        "outputPath": "/Users/uttamkumar/Projects/CFS_Assessment/cfs-assessment/cfs-assessment/StarsWarsWebapi/StarsWarsApi.UnitTests/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/uttamkumar/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "/Users/uttamkumar/Projects/CFS_Assessment/cfs-assessment/cfs-assessment/StarsWarsWebapi/InfraStructure/InfraStructure.csproj": {
+                "projectPath": "/Users/uttamkumar/Projects/CFS_Assessment/cfs-assessment/cfs-assessment/StarsWarsWebapi/InfraStructure/InfraStructure.csproj"
+              },
+              "/Users/uttamkumar/Projects/CFS_Assessment/cfs-assessment/cfs-assessment/StarsWarsWebapi/StarsWarsWebapi/StarsWarsWebapi.csproj": {
+                "projectPath": "/Users/uttamkumar/Projects/CFS_Assessment/cfs-assessment/cfs-assessment/StarsWarsWebapi/StarsWarsWebapi/StarsWarsWebapi.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.AspNetCore.Mvc.Abstractions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.5.0, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.20.70, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[1.2.0, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            },
+            "xunit.runner.visualstudio": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.1.10, 3.1.10]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[3.1.0, 3.1.0]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.312/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/uttamkumar/Projects/CFS_Assessment/cfs-assessment/cfs-assessment/StarsWarsWebapi/StarsWarsWebapi/StarsWarsWebapi.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/uttamkumar/Projects/CFS_Assessment/cfs-assessment/cfs-assessment/StarsWarsWebapi/StarsWarsWebapi/StarsWarsWebapi.csproj",
+        "projectName": "StarsWarsWebapi",
+        "projectPath": "/Users/uttamkumar/Projects/CFS_Assessment/cfs-assessment/cfs-assessment/StarsWarsWebapi/StarsWarsWebapi/StarsWarsWebapi.csproj",
+        "packagesPath": "/Users/uttamkumar/.nuget/packages/",
+        "outputPath": "/Users/uttamkumar/Projects/CFS_Assessment/cfs-assessment/cfs-assessment/StarsWarsWebapi/StarsWarsWebapi/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/uttamkumar/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/sdk/7.0.312/Sdks/Microsoft.NET.Sdk.Web/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "/Users/uttamkumar/Projects/CFS_Assessment/cfs-assessment/cfs-assessment/StarsWarsWebapi/Application/Application.csproj": {
+                "projectPath": "/Users/uttamkumar/Projects/CFS_Assessment/cfs-assessment/cfs-assessment/StarsWarsWebapi/Application/Application.csproj"
+              },
+              "/Users/uttamkumar/Projects/CFS_Assessment/cfs-assessment/cfs-assessment/StarsWarsWebapi/InfraStructure/InfraStructure.csproj": {
+                "projectPath": "/Users/uttamkumar/Projects/CFS_Assessment/cfs-assessment/cfs-assessment/StarsWarsWebapi/InfraStructure/InfraStructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.1.10, 3.1.10]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.osx-x64",
+              "version": "[3.1.32, 3.1.32]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[3.1.0, 3.1.0]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.312/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
